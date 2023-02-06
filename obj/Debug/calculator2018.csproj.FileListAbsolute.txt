@@ -1,0 +1,8 @@
+C:\My-project\Povtorenie\calculator2018\obj\Debug\calculator2018.csproj.AssemblyReference.cache
+C:\My-project\Povtorenie\calculator2018\obj\Debug\calculator2018.csproj.SuggestedBindingRedirects.cache
+C:\My-project\Povtorenie\calculator2018\obj\Debug\calculator2018.csproj.CoreCompileInputs.cache
+C:\My-project\Povtorenie\calculator2018\bin\Debug\calculator2018.exe.config
+C:\My-project\Povtorenie\calculator2018\bin\Debug\calculator2018.exe
+C:\My-project\Povtorenie\calculator2018\bin\Debug\calculator2018.pdb
+C:\My-project\Povtorenie\calculator2018\obj\Debug\calculator2018.exe
+C:\My-project\Povtorenie\calculator2018\obj\Debug\calculator2018.pdb
